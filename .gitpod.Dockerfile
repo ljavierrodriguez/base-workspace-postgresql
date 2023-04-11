@@ -1,3 +1,3 @@
-FROM gitpod/workspace-mysql:latest
+FROM gitpod/workspace-postgresql:latest
 
 USER root
