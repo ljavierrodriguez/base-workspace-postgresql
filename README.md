@@ -4,5 +4,5 @@ gitpod
 
 ## Password
 
-<blank>
+empty
 
